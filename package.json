@@ -1,0 +1,12 @@
+{
+  "name": "factorio-type-kit",
+  "version": "0.0.1",
+  "description": "read repo description",
+  "main": "index.js",
+  "repository": "git@github.com:nomasgrim/factorio-typescript-mods.git",
+  "author": "Cliff Barendsen <cliff.barendsen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "factorio-type-kit": "^1.1.1"
+  }
+}

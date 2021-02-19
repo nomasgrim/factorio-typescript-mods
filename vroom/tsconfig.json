@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "lib": [
+      "esnext"
+    ],
+    "moduleResolution": "node",
+    "strict": true,
+    "sourceMap": true
+  },
+  "tstl": {
+    "luaTarget": "JIT",
+    "noHeader": true,
+    "noImplicitSelf": true
+  },
+  "include": [
+    "./**/*",
+    "./node_modules/factorio-type-kit/factorio.d.ts"
+  ]
+}

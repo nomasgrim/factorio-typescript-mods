@@ -1,0 +1,11 @@
+{
+  "name": "vroom",
+  "version": "0.0.0",
+  "title": "vroom",
+  "author": "your-name-here",
+  "factorio_version": "1.0",
+  "dependencies": [],
+  "package": {
+    "scripts": {}
+  }
+}

@@ -16,3 +16,9 @@
 - [ ] create mod deflects damage given by enemy
 
 
+## How to get started from this repo
+### Setup
+* `yarn install`
+* cd vroom
+* yarn start
+
